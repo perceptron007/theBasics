@@ -6,7 +6,7 @@ Going Back To The Root and Trying to Understand Why and What of little bit of Ev
 
 > Following the Lets Build a Simple Database tutorial to learn about how DB works
 
-[Course Link](https://cstack.github.io/db_tutorial/parts/part1.html
+[Course Link](https://cstack.github.io/db_tutorial/parts/part1.html)
 
 ## What to Expect ?
 * I'll be following the approach to finish the tutorial alongside also learning all the side knowledge to make sense of what is happening in the code.
